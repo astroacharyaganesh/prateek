@@ -10,7 +10,7 @@ export default function About() {
       <div className="container about-grid">
         <div className="about-image">
           <img
-            src="public\images\image2.jfif"
+            src="images\image2.jfif"
             alt="Astrologer Hanish Bagga"
             loading="lazy"
           />
@@ -42,3 +42,5 @@ export default function About() {
     </section>
   );
 }
+
+
