@@ -4,6 +4,8 @@ const benefits = [
   "Bring your personal career questions into focus",
 ];
 
+
+
 export default function About() {
   return (
     <section className="about section" id="about">
@@ -15,6 +17,8 @@ export default function About() {
             loading="lazy"
           />
         </div>
+
+
 
         <div className="about-content">
           <p className="eyebrow">A PERSONAL PERSPECTIVE</p>

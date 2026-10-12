@@ -6,6 +6,9 @@ export default function Navbar() {
           ACHARYA GANESH
         </a>
 
+
+        
+
         <nav className="nav-links" aria-label="Main navigation">
           <a href="#career">Career Guidance</a>
           <a href="#about">About</a>
@@ -16,6 +19,14 @@ export default function Navbar() {
           </a>
         </nav>
       </div>
+
+
     </header>
+
+
   );
+
+
+
 }
+
